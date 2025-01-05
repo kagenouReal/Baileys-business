@@ -1,6 +1,6 @@
 {
-  "name": "@whiskeysockets/baileys",
-  "version": "6.7.9",
+  "name": "@kagechan/baileys",
+  "version": "1.2.9",
   "description": "WhatsApp API",
   "keywords": [
     "whatsapp",
@@ -11,9 +11,9 @@
     "newsletter",
     "whatsapp-bot"
   ],
-  "homepage": "https://github.com/LT-SYAII/Bail",
+  "homepage": "https://github.com/kagenouReal/Baileys",
   "repository": {
-    "url": "git+ssh://git@github.com/LT-SYAII/Bail.git"
+    "url": "git+ssh://git@github.com/kagenouReal/Baileys.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
